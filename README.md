@@ -9,7 +9,7 @@
 
 # Proposta de Teste
 
-Nesse teste você implementará as funcionalidades descritas abaixos. Tenha atenção com as regras de
+Nesse teste você implementará as funcionalidades descritas abaixo. Tenha atenção com as regras de
 negócios definidas mais adiante.
 
 - Lembre-se de seguir o layout proposto
@@ -17,7 +17,7 @@ negócios definidas mais adiante.
   importante se cadastrar no Figma para conseguir inspecionar os elementos.
 - Versão do Flutter 3.22.1
 - Utilizar o Flutter Web
-- Caso não consiga concluir todas as funcionalidade, lembre-se que o mais importante é termos noção
+- Caso não consiga concluir todas as funcionalidades, lembre-se que o mais importante é termos noção
   da qualidade do código e de suas habilidades para projeto de sistemas. Nesse caso, complemente sua
   solução com comentários e documentação sobre como terminaria o teste.
 - URL da API: https://exam-api.origam.services/
